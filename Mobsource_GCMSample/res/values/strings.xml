@@ -1,0 +1,5 @@
+<resources>
+
+    <string name="app_name">GCM Sample</string>
+    <string name="gcm">Google Cloud Messaging</string>
+</resources>

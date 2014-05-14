@@ -1,0 +1,5 @@
+<resources>
+
+    <string name="app_name">GCMAndroid</string>
+	<string name="c2dm_registration_url">http://192.168.1.11/angel/register.php</string>
+</resources>
